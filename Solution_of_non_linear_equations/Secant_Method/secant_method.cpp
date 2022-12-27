@@ -38,6 +38,7 @@ int main()
         cout << setprecision(5) << fixed << setw(5) << count << setw(20) << a << setw(20) << b << setw(20) << f0 << setw(20) << f1 << setw(20) << c << setw(20) << f2 << setw(20) << endl;
         a = b;
         b = c;
-    } while (abs(f2) > e && count <= 20);
+    } 
+    while (abs(f2) > e && count <= 20);
     return 0;
 }
