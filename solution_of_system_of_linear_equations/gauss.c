@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main()
 {
     // Size of matrix (number of equations)
