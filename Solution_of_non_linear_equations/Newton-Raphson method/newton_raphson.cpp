@@ -2,6 +2,7 @@
 #include<iomanip>
 #include<cmath>
 
+
 using namespace std;
 
 float func(float x)
