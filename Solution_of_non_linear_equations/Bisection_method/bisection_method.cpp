@@ -9,6 +9,7 @@ float func(float x){
 }
 
 int main(){
+    
     float a,b,e;
     float f0,f1,mid,fmid;
     cout<<"Enter the initial interval: "<<endl;

@@ -4,7 +4,8 @@
 
 using namespace std;
 
-float func(float x){
+float func(float x)
+{
     return (x*x*x + 3*x*x - 5);
 }
 
