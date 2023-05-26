@@ -1,6 +1,5 @@
 
 #include<iostream>
-
 /* defining ordinary differential equation */
 #define f(x,y) x+y
 
