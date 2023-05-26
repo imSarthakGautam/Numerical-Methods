@@ -1,6 +1,5 @@
 
 #include<iostream>
-
 /* Defining ordinary differential equation */
 #define f(x,y) (y*y-x*x)/(y*y+x*x)
 
