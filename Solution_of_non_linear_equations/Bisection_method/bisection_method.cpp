@@ -7,7 +7,6 @@ using namespace std;
 float func(float x){
     return (x*x*x + 3*x*x - 5);
 }
-
 int main(){
     
     float a,b,e;
